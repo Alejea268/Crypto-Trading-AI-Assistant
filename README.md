@@ -11,7 +11,7 @@ A smart AI-powered assistant that helps beginner traders maximize their crypto i
 
 ## Background   
 > Beginner traders often lose money due to lack of experience and understanding of the market. This project provides a solution by analyzing trends and automating trades.  
-- **Motivation: 
+- **Motivation:**
 > With the increasing popularity of cryptocurrencies, more people want to start trading. This AI assistant can democratize crypto trading by making it accessible and less risky.
 
 ---
